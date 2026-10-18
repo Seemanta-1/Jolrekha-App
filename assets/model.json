@@ -1,0 +1,592 @@
+{
+  "features": [
+    "rain_d",
+    "rain_prev"
+  ],
+  "transform": "log1p",
+  "scaler_mean": [
+    1.6811429246024536,
+    1.6824922487417364
+  ],
+  "scaler_scale": [
+    1.0771660286456777,
+    1.0763607954671452
+  ],
+  "coef": [
+    0.37894720202837856,
+    0.44884104121069196
+  ],
+  "intercept": -3.0292414846389586,
+  "risk_levels": {
+    "high": 0.0354,
+    "medium": 0.0197
+  },
+  "places": [
+    {
+      "area": "New Market",
+      "lat": 23.733,
+      "lon": 90.384,
+      "p_place": 0.42105
+    },
+    {
+      "area": "Mirpur",
+      "lat": 23.804,
+      "lon": 90.366,
+      "p_place": 0.36842
+    },
+    {
+      "area": "Dhanmondi",
+      "lat": 23.7461,
+      "lon": 90.3742,
+      "p_place": 0.31579
+    },
+    {
+      "area": "Bangshal",
+      "lat": 23.717,
+      "lon": 90.407,
+      "p_place": 0.31579
+    },
+    {
+      "area": "Kazipara",
+      "lat": 23.799,
+      "lon": 90.372,
+      "p_place": 0.28947
+    },
+    {
+      "area": "Green Road",
+      "lat": 23.749,
+      "lon": 90.388,
+      "p_place": 0.26316
+    },
+    {
+      "area": "Farmgate",
+      "lat": 23.7568,
+      "lon": 90.3897,
+      "p_place": 0.26316
+    },
+    {
+      "area": "Paltan",
+      "lat": 23.734,
+      "lon": 90.412,
+      "p_place": 0.23684
+    },
+    {
+      "area": "Mohammadpur",
+      "lat": 23.7662,
+      "lon": 90.3589,
+      "p_place": 0.21053
+    },
+    {
+      "area": "Moghbazar",
+      "lat": 23.749,
+      "lon": 90.406,
+      "p_place": 0.21053
+    },
+    {
+      "area": "Badda",
+      "lat": 23.78,
+      "lon": 90.426,
+      "p_place": 0.21053
+    },
+    {
+      "area": "Malibagh",
+      "lat": 23.748,
+      "lon": 90.414,
+      "p_place": 0.18421
+    },
+    {
+      "area": "Old Dhaka",
+      "lat": 23.712,
+      "lon": 90.405,
+      "p_place": 0.18421
+    },
+    {
+      "area": "Kalshi",
+      "lat": 23.822,
+      "lon": 90.38,
+      "p_place": 0.18421
+    },
+    {
+      "area": "Jurain",
+      "lat": 23.697,
+      "lon": 90.432,
+      "p_place": 0.18421
+    },
+    {
+      "area": "Shewrapara",
+      "lat": 23.792,
+      "lon": 90.376,
+      "p_place": 0.18421
+    },
+    {
+      "area": "Kakrail",
+      "lat": 23.738,
+      "lon": 90.408,
+      "p_place": 0.18421
+    },
+    {
+      "area": "Shantinagar",
+      "lat": 23.7398,
+      "lon": 90.415,
+      "p_place": 0.15789
+    },
+    {
+      "area": "Fakirapool",
+      "lat": 23.733,
+      "lon": 90.419,
+      "p_place": 0.15789
+    },
+    {
+      "area": "Arambagh",
+      "lat": 23.731,
+      "lon": 90.42,
+      "p_place": 0.15789
+    },
+    {
+      "area": "Airport",
+      "lat": 23.843,
+      "lon": 90.4,
+      "p_place": 0.15789
+    },
+    {
+      "area": "Motijheel",
+      "lat": 23.733,
+      "lon": 90.4172,
+      "p_place": 0.15789
+    },
+    {
+      "area": "Mirpur 10",
+      "lat": 23.8069,
+      "lon": 90.3687,
+      "p_place": 0.15789
+    },
+    {
+      "area": "Karwan Bazar",
+      "lat": 23.751,
+      "lon": 90.393,
+      "p_place": 0.13158
+    },
+    {
+      "area": "Kalabagan",
+      "lat": 23.747,
+      "lon": 90.382,
+      "p_place": 0.13158
+    },
+    {
+      "area": "Mouchak",
+      "lat": 23.7465,
+      "lon": 90.4125,
+      "p_place": 0.13158
+    },
+    {
+      "area": "Sayedabad",
+      "lat": 23.719,
+      "lon": 90.428,
+      "p_place": 0.13158
+    },
+    {
+      "area": "Kalyanpur",
+      "lat": 23.781,
+      "lon": 90.36,
+      "p_place": 0.13158
+    },
+    {
+      "area": "Khilkhet",
+      "lat": 23.829,
+      "lon": 90.422,
+      "p_place": 0.13158
+    },
+    {
+      "area": "Bijoy Sarani",
+      "lat": 23.765,
+      "lon": 90.389,
+      "p_place": 0.13158
+    },
+    {
+      "area": "Azimpur",
+      "lat": 23.727,
+      "lon": 90.385,
+      "p_place": 0.10526
+    },
+    {
+      "area": "Elephant Road",
+      "lat": 23.74,
+      "lon": 90.387,
+      "p_place": 0.10526
+    },
+    {
+      "area": "Dakshinkhan",
+      "lat": 23.862,
+      "lon": 90.427,
+      "p_place": 0.10526
+    },
+    {
+      "area": "Nilkhet",
+      "lat": 23.733,
+      "lon": 90.386,
+      "p_place": 0.10526
+    },
+    {
+      "area": "Matikata",
+      "lat": 23.817,
+      "lon": 90.393,
+      "p_place": 0.10526
+    },
+    {
+      "area": "Rajarbagh",
+      "lat": 23.74,
+      "lon": 90.419,
+      "p_place": 0.10526
+    },
+    {
+      "area": "Uttara",
+      "lat": 23.8759,
+      "lon": 90.3795,
+      "p_place": 0.10526
+    },
+    {
+      "area": "Abdullahpur",
+      "lat": 23.879,
+      "lon": 90.4,
+      "p_place": 0.10526
+    },
+    {
+      "area": "Eskaton",
+      "lat": 23.745,
+      "lon": 90.4,
+      "p_place": 0.07895
+    },
+    {
+      "area": "Dhaka University",
+      "lat": 23.734,
+      "lon": 90.393,
+      "p_place": 0.07895
+    },
+    {
+      "area": "Hatirjheel",
+      "lat": 23.755,
+      "lon": 90.404,
+      "p_place": 0.07895
+    },
+    {
+      "area": "Kamalapur",
+      "lat": 23.731,
+      "lon": 90.426,
+      "p_place": 0.07895
+    },
+    {
+      "area": "Mohakhali",
+      "lat": 23.778,
+      "lon": 90.405,
+      "p_place": 0.07895
+    },
+    {
+      "area": "Kathalbagan",
+      "lat": 23.747,
+      "lon": 90.385,
+      "p_place": 0.07895
+    },
+    {
+      "area": "Shahjahanpur",
+      "lat": 23.742,
+      "lon": 90.421,
+      "p_place": 0.07895
+    },
+    {
+      "area": "Uttarkhan",
+      "lat": 23.88,
+      "lon": 90.437,
+      "p_place": 0.07895
+    },
+    {
+      "area": "Gulistan",
+      "lat": 23.724,
+      "lon": 90.411,
+      "p_place": 0.07895
+    },
+    {
+      "area": "Jatrabari",
+      "lat": 23.71,
+      "lon": 90.435,
+      "p_place": 0.07895
+    },
+    {
+      "area": "Kawla",
+      "lat": 23.85,
+      "lon": 90.409,
+      "p_place": 0.07895
+    },
+    {
+      "area": "Khilgaon",
+      "lat": 23.751,
+      "lon": 90.425,
+      "p_place": 0.07895
+    },
+    {
+      "area": "Rokeya Sarani",
+      "lat": 23.788,
+      "lon": 90.377,
+      "p_place": 0.07895
+    },
+    {
+      "area": "Matuail",
+      "lat": 23.712,
+      "lon": 90.46,
+      "p_place": 0.07895
+    },
+    {
+      "area": "Mirpur 1",
+      "lat": 23.7957,
+      "lon": 90.3537,
+      "p_place": 0.07895
+    },
+    {
+      "area": "Mirpur 2",
+      "lat": 23.805,
+      "lon": 90.364,
+      "p_place": 0.07895
+    },
+    {
+      "area": "Zigatola",
+      "lat": 23.74,
+      "lon": 90.37,
+      "p_place": 0.05263
+    },
+    {
+      "area": "Asad Gate",
+      "lat": 23.76,
+      "lon": 90.372,
+      "p_place": 0.05263
+    },
+    {
+      "area": "Gopibagh",
+      "lat": 23.724,
+      "lon": 90.425,
+      "p_place": 0.05263
+    },
+    {
+      "area": "Bakshibazar",
+      "lat": 23.723,
+      "lon": 90.395,
+      "p_place": 0.05263
+    },
+    {
+      "area": "Banani",
+      "lat": 23.7937,
+      "lon": 90.4066,
+      "p_place": 0.05263
+    },
+    {
+      "area": "Lalbagh",
+      "lat": 23.719,
+      "lon": 90.388,
+      "p_place": 0.05263
+    },
+    {
+      "area": "Mugda",
+      "lat": 23.732,
+      "lon": 90.432,
+      "p_place": 0.05263
+    },
+    {
+      "area": "Panthapath",
+      "lat": 23.752,
+      "lon": 90.387,
+      "p_place": 0.05263
+    },
+    {
+      "area": "Tejgaon",
+      "lat": 23.764,
+      "lon": 90.392,
+      "p_place": 0.05263
+    },
+    {
+      "area": "Agargaon",
+      "lat": 23.778,
+      "lon": 90.378,
+      "p_place": 0.05263
+    },
+    {
+      "area": "Azampur",
+      "lat": 23.868,
+      "lon": 90.4,
+      "p_place": 0.05263
+    },
+    {
+      "area": "Basabo",
+      "lat": 23.74,
+      "lon": 90.43,
+      "p_place": 0.05263
+    },
+    {
+      "area": "Bosila",
+      "lat": 23.753,
+      "lon": 90.346,
+      "p_place": 0.05263
+    },
+    {
+      "area": "Darussalam",
+      "lat": 23.786,
+      "lon": 90.348,
+      "p_place": 0.05263
+    },
+    {
+      "area": "Dhaka Medical College",
+      "lat": 23.7255,
+      "lon": 90.3975,
+      "p_place": 0.05263
+    },
+    {
+      "area": "Dilkusha",
+      "lat": 23.727,
+      "lon": 90.418,
+      "p_place": 0.05263
+    },
+    {
+      "area": "Gulshan",
+      "lat": 23.7925,
+      "lon": 90.414,
+      "p_place": 0.05263
+    },
+    {
+      "area": "Hatirpool",
+      "lat": 23.742,
+      "lon": 90.391,
+      "p_place": 0.05263
+    },
+    {
+      "area": "Hazaribagh",
+      "lat": 23.735,
+      "lon": 90.365,
+      "p_place": 0.05263
+    },
+    {
+      "area": "Kadamtali",
+      "lat": 23.693,
+      "lon": 90.444,
+      "p_place": 0.05263
+    },
+    {
+      "area": "Merul Badda",
+      "lat": 23.773,
+      "lon": 90.424,
+      "p_place": 0.05263
+    },
+    {
+      "area": "Mirpur 11",
+      "lat": 23.816,
+      "lon": 90.366,
+      "p_place": 0.05263
+    },
+    {
+      "area": "Mirpur 12",
+      "lat": 23.827,
+      "lon": 90.364,
+      "p_place": 0.05263
+    },
+    {
+      "area": "Mirpur 13",
+      "lat": 23.804,
+      "lon": 90.379,
+      "p_place": 0.05263
+    },
+    {
+      "area": "Nakhalpara",
+      "lat": 23.769,
+      "lon": 90.397,
+      "p_place": 0.05263
+    },
+    {
+      "area": "Notun Bazar",
+      "lat": 23.797,
+      "lon": 90.424,
+      "p_place": 0.05263
+    },
+    {
+      "area": "Pallabi",
+      "lat": 23.825,
+      "lon": 90.365,
+      "p_place": 0.05263
+    },
+    {
+      "area": "Rayerbag",
+      "lat": 23.7,
+      "lon": 90.453,
+      "p_place": 0.05263
+    },
+    {
+      "area": "Science Lab",
+      "lat": 23.739,
+      "lon": 90.383,
+      "p_place": 0.05263
+    },
+    {
+      "area": "Shonir Akhra",
+      "lat": 23.704,
+      "lon": 90.445,
+      "p_place": 0.05263
+    },
+    {
+      "area": "Shyamoli",
+      "lat": 23.774,
+      "lon": 90.365,
+      "p_place": 0.05263
+    },
+    {
+      "area": "Shyampur",
+      "lat": 23.696,
+      "lon": 90.438,
+      "p_place": 0.05263
+    },
+    {
+      "area": "Tejturi Bazar",
+      "lat": 23.757,
+      "lon": 90.392,
+      "p_place": 0.05263
+    },
+    {
+      "area": "Vatara",
+      "lat": 23.799,
+      "lon": 90.429,
+      "p_place": 0.05263
+    },
+    {
+      "area": "Bailey Road",
+      "lat": 23.742,
+      "lon": 90.407,
+      "p_place": 0.02632
+    },
+    {
+      "area": "Tikatuli",
+      "lat": 23.723,
+      "lon": 90.419,
+      "p_place": 0.02632
+    }
+  ],
+  "trained_on": "2020-2025 May-Oct, 1104 days, 63 waterlogging days",
+  "label": "same_or_next_day",
+  "model_selection": {
+    "method": "leave-one-year-out log-loss skill; positive coefficients; uses today rain",
+    "C": 0.1,
+    "loyo_roc_auc": 0.675,
+    "loyo_pr_auc": 0.149
+  },
+  "test_metrics_2024_2025": [
+    {
+      "model": "Baseline: rain_2d > 94 mm",
+      "ROC-AUC": 0.701,
+      "PR-AUC": 0.329,
+      "precision": 0.667,
+      "recall": 0.176,
+      "F1": 0.279
+    },
+    {
+      "model": "JolRekha logistic model",
+      "ROC-AUC": 0.702,
+      "PR-AUC": 0.295,
+      "precision": 0.235,
+      "recall": 0.353,
+      "F1": 0.282
+    }
+  ]
+}
